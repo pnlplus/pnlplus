@@ -18,7 +18,7 @@ PNL+ is a web-based tool that lets terminal users generate fully customized **PN
 
 1. **Launch*
 2. **Select a video** from the preset library or **upload your own** video file
-3. **Enter your PNL data** (ticker, profit/loss amount, percentage change, etc.)
+3. **Upload your PNL data** (ticker, profit/loss amount, percentage change, etc.)
 4. The app **overlays** your PNL information onto the video in real time
 5. **Export or share** your custom PNL card
 Made with love by the PNL+ team
